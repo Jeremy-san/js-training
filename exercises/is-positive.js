@@ -15,7 +15,7 @@ function isPositive (assert){
         return false;
     }
 }
-console.log(isPositive.length);
+console.log(assert);
    
     
 
