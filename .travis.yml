@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 script: ./tester basics advanced math
 language: node_js
 node_js:
   - "node"
 
-=======
-script: ./tester basics
-language: node_js
-node_js:
-  - "node"
->>>>>>> 7117b8b8f783d35f9664d50c976f193d195c4f85
