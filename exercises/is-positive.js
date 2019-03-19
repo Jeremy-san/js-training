@@ -8,14 +8,14 @@
  */
 
 // Your code:
-function isPositive (assert){
-    if(assert > 0){
+const isPositive =(number)=>{
+    if(number > 0){
         return true;
     } else {
         return false;
     }
 }
-console.log(assert);
+
    
     
 
