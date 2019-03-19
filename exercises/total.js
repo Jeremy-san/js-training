@@ -5,7 +5,13 @@
  * and return the total
  *
  */
-
+const total = (a) => {
+    let resulta = 0;
+    for (let i = 0; i < a.length; i++){
+         resulta = resulta + a[i];
+    }  
+    return resulta; 
+}
 
 //* Begin of tests
 const assert = require('assert')
